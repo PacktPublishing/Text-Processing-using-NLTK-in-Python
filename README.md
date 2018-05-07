@@ -20,9 +20,10 @@ To fully benefit from the coverage included in this course, you will need:<br/>
 This video course is ideal for Data Scientists, Data Analysts, and Data Science professionals who want to upgrade their existing skills to learn text analytics using NLP. Some basic knowledge of Python is recommended. 
 ### Technical Requirements
 This course has the following software requirements:<br/>
-Python 3.x or higher running on any Windows or Unix 
-Processor of 2.0 GHz or higher
-Minimum 4GB RAM
+<UL>
+<LI>Python 3.x or higher running on any Windows or Unix 
+<LI>Processor of 2.0 GHz or higher
+<LI>Minimum 4GB RAM</LI></UL>
 
 ## Related Products
 * [Developing NLP Applications Using NLTK in Python [Video]](https://www.packtpub.com/big-data-and-business-intelligence/developing-nlp-applications-using-nltk-python-video?utm_source=github&utm_medium=repository&utm_campaign=9781789343335)
